@@ -1,0 +1,239 @@
+2022-06-02 05:07:01,997 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 05:07:02,345 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 05:07:17,711 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 05:07:17,885 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 05:07:21,629 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 05:07:24,644 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 05:07:24,665 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 05:07:29,654 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 05:07:39,455 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 05:07:42,724 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 05:07:42,868 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 05:07:48,452 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 05:07:48,578 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 05:07:49,747 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 05:07:52,763 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 05:07:52,799 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 05:07:55,525 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 05:07:56,930 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 14:15:05,406 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 14:15:06,446 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 14:15:10,252 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 14:15:10,499 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 14:15:12,850 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 14:15:15,865 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 14:15:15,919 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 14:15:19,927 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 14:15:24,459 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 14:15:26,770 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 14:15:27,030 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 14:15:30,539 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 14:15:30,699 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 14:15:31,763 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 14:15:34,777 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 14:15:34,806 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 14:15:37,653 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 14:15:38,683 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 15:13:28,601 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 15:13:28,973 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 15:13:30,436 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 15:13:31,021 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 15:13:34,549 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 15:13:37,559 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 15:13:37,589 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 15:13:42,386 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 15:13:46,812 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 15:13:56,860 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 15:13:56,890 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 15:13:57,682 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 15:13:57,895 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 15:13:58,964 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 15:14:01,981 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 15:14:02,003 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 15:14:04,354 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 15:14:07,418 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 20:18:24,692 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:18:26,079 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:18:27,560 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:18:27,778 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:18:28,925 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:18:31,940 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:18:31,964 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:18:35,863 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 20:18:40,984 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 20:18:44,175 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:18:44,324 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:18:48,309 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:18:48,474 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:18:49,912 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:18:52,918 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:18:52,947 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:18:56,160 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 20:18:56,873 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 20:22:46,810 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:22:47,151 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:23:28,063 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:23:32,538 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:23:37,794 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:23:40,806 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:23:40,886 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:23:44,407 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 20:23:56,192 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 20:24:07,128 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:24:07,166 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:24:08,527 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:24:08,622 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:24:09,796 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:24:12,810 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:24:12,834 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:24:15,670 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 20:24:18,152 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 20:25:08,711 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:25:09,321 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:25:10,974 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:25:11,142 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:25:12,347 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:25:15,356 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:25:15,384 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:25:19,384 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 20:25:24,219 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 20:25:27,852 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:25:28,092 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:25:32,870 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:25:33,033 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:25:34,076 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:25:37,091 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:25:37,106 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:25:40,042 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 20:25:40,960 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 20:34:11,595 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:34:14,829 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:34:33,999 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:34:34,190 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:34:38,770 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:34:41,787 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:34:41,905 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:34:50,128 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 20:34:55,244 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 20:35:01,018 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:35:01,188 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:35:04,523 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:35:04,666 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:35:05,913 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:35:08,957 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:35:08,990 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:35:11,911 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 20:35:12,784 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 20:43:59,376 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:43:59,816 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:44:01,802 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:44:01,947 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:44:03,153 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:44:06,166 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:44:06,203 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:44:09,164 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 20:44:10,322 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 20:44:13,258 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:44:13,454 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:44:15,856 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:44:15,994 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:44:17,206 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:45:30,235 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:45:31,079 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:45:33,734 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:45:33,880 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:45:35,067 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:45:38,074 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:45:38,109 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:45:40,922 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 20:45:41,814 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 20:47:35,553 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:47:36,138 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:47:37,903 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:47:38,055 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:47:39,301 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:47:42,305 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:47:42,339 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:47:45,958 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 20:47:51,375 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 20:47:54,801 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 20:47:54,982 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 20:47:57,665 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 20:47:57,795 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 20:47:59,060 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 20:48:02,073 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 20:48:02,094 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 20:48:06,923 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 20:48:08,041 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 23:21:54,138 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:21:54,622 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:21:58,640 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:21:58,818 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:21:59,940 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:22:02,978 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:22:03,008 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:22:06,514 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 23:22:18,123 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 23:22:21,310 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:22:21,473 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:22:24,639 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:22:24,771 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:22:25,989 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:22:28,998 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:22:30,934 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:22:33,797 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 23:22:34,631 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 23:30:31,231 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:30:31,672 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:30:34,994 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:30:35,170 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:30:36,398 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:30:39,406 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:30:39,441 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:30:42,952 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 23:30:50,634 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 23:30:58,014 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:30:58,174 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:31:01,691 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:31:01,821 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:31:03,011 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:31:06,019 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:31:06,056 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:31:08,844 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 23:31:09,758 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 23:41:37,460 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:41:37,967 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:41:40,387 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:41:40,549 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:41:41,716 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:41:44,726 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:41:45,620 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:41:49,146 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 23:41:57,929 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 23:42:08,475 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:42:08,630 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:42:11,583 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:42:11,713 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:42:12,826 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:42:15,842 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:42:15,879 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:42:18,622 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 23:42:19,542 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
+2022-06-02 23:52:21,608 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:52:22,417 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:52:24,000 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:52:24,174 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:52:25,351 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:52:28,359 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:52:28,395 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:52:33,486 - CucumberHybridFramework -INFO - ********Adding customer details*********
+2022-06-02 23:52:39,633 - CucumberHybridFramework -INFO - ************new customer added successfully *****************
+2022-06-02 23:52:46,275 - CucumberHybridFramework -INFO - **********Launching browser**********
+2022-06-02 23:52:46,460 - CucumberHybridFramework -INFO - *******opening url********
+2022-06-02 23:52:49,089 - CucumberHybridFramework -INFO - ********Providing username***********
+2022-06-02 23:52:49,259 - CucumberHybridFramework -INFO - ******providing password*******
+2022-06-02 23:52:50,574 - CucumberHybridFramework -INFO - *******Succesfully login***********
+2022-06-02 23:52:53,593 - CucumberHybridFramework -INFO - ********checking title of the page*********
+2022-06-02 23:52:55,202 - CucumberHybridFramework -INFO - ************adding new customer*****************
+2022-06-02 23:52:58,083 - CucumberHybridFramework -INFO - *********seraching customer by passing register data***********
+2022-06-02 23:52:59,188 - CucumberHybridFramework -INFO - *************Customer found successfully*****************
